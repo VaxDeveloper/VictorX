@@ -238,8 +238,8 @@
 }
 
 #container-solicitacao {
-  width: 900px;
-  height: 400px;
+  width: auto;
+  height: auto;
 }
 
 .row-input {
