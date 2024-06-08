@@ -237,3 +237,12 @@
   height: 37.6074px;
 }
 
+#container-solicitacao {
+  margin-top: 200px;
+  width: 900px;
+}
+
+.row-input {
+  margin-top: 10px;
+}
+
