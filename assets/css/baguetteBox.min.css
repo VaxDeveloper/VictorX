@@ -251,11 +251,23 @@
 
 @media (max-width: 576px) {
   #efeito-loop {
-    display: none;
+    /*display: none;*/
   }
 }
 
 #efeito-loop {
   margin-top: 60px;
+}
+
+@media (max-width: 576px) {
+  .disp-js {
+    font-size: 11px;
+  }
+}
+
+@media (max-width: 576px) {
+  #disp-js-none {
+    display: none;
+  }
 }
 
