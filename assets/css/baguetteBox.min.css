@@ -249,12 +249,6 @@
 #efeito-rolagem {
 }
 
-@media (max-width: 576px) {
-  #efeito-loop {
-    /*display: none;*/
-  }
-}
-
 #efeito-loop {
   margin-top: 60px;
 }
