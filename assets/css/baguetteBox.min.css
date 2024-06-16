@@ -271,3 +271,9 @@
   }
 }
 
+@media (max-width: 576px) {
+  #btn-solicitacao {
+    font-size: 14px;
+  }
+}
+
