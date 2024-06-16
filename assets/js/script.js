@@ -25,3 +25,5 @@ containerElement.style.left = window.innerWidth + 'px';
 
 // Inicia o movimento dos parágrafos
 moveParagraphs();
+
+console.log()
