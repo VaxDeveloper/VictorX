@@ -256,7 +256,6 @@
 }
 
 #efeito-loop {
-  margin-top: 60px;
 }
 
 @media (max-width: 576px) {
@@ -275,5 +274,23 @@
   #btn-solicitacao {
     font-size: 1rem;
   }
+}
+
+#sobre {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+#info-abaixo {
+}
+
+#img-sobre {
+  width: 500px;
+}
+
+.light {
+}
+
+img {
 }
 
