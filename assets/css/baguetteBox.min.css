@@ -287,9 +287,18 @@
 .light {
 }
 
-@media (max-width: 983px) {
+@media (max-width: 984px) {
   #heading-sobre {
     display: none;
   }
+}
+
+.mg-sobrei {
+  width: 45px;
+}
+
+#bootstrap-icon {
+  width: 57px;
+  height: 47px;
 }
 
