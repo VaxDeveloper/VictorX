@@ -249,7 +249,7 @@
 #efeito-rolagem {
 }
 
-@media (max-width: 767px) {
+@media (max-width: 991px) {
   #efeito-loop {
     display: none;
   }
